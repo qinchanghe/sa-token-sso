@@ -697,9 +697,14 @@ java -jar sa-token-sso-clietn-0.0.1-SNAPSHOT.jar --server.port=9003
 
 [https://github.com/gitjibl/sa-token-sso](https://github.com/gitjibl/sa-token-sso)
 
+[Sa-Token实现单点登录](https://juejin.cn/spost/7254927062426402853)
+
+
 ## 五、源码
 
 前端文件在源码里，教程里没有具体给出。
 
 [GitHub源码](https://github.com/qinchanghe/sa-token-sso.git)
+
+
 
